@@ -1,0 +1,1 @@
+SELECT COUNT(idx) FROM "public"."pokemondata";
